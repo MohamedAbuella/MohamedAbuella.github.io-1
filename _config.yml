@@ -1,12 +1,12 @@
-name: Florian Dierickx
-author: Florian Dierickx
+name: Mohamed Abuella
+author: Mohamed Abuella
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
   - jekyll-feed
   
-url: http://floriandierickx.github.io
+url: http://MohamedAbuella.github.io
 
 navigation:
 - root: Home
